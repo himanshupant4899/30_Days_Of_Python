@@ -39,3 +39,5 @@ Day 15: Comprehensions
 ***
 Day 16: First Class Functions and Lambda Expressions
 ***
+Day 17: Flexible Functions with *args and **kwargs
+***

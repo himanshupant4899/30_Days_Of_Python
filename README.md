@@ -50,3 +50,5 @@ Day 17: Flexible Functions with *args and **kwargs
 Day 18: Imports
 
 Day 18 Project: JSON Reading List
+***
+Day 19: Exception Handling

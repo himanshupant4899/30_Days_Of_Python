@@ -1,0 +1,7 @@
+Using the dataset present in iris.csv:
+
+1. Create a scatter plot where the x axis is the species and the y axis is one of the other columns.
+
+2. Via a user menu, tell us the column they would like to plot in the y axis.
+
+3. Also via the menu, tell us the name of the file they would like to create to contain the final plot image.

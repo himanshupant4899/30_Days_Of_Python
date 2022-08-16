@@ -52,3 +52,39 @@ Day 18: Imports
 Day 18 Project: JSON Reading List
 ***
 Day 19: Exception Handling
+***
+Day 20: map,filter, and Conditional Comprehensions
+***
+Day 21: Splitting Code Into Files
+
+Day 21 Project: Plotting Graphs
+***
+Day 22: Iterators
+***
+Day 23: Generators and Generator Expressions
+***
+Day 24: Advanced Exception Handling and Raising Exceptions
+
+Day 24 Project: Dice Roller
+***
+Day 25: Writing Idiomatic Python
+***
+Day 26: Leveraging the Standard Library
+***
+Day 27: Setting Up a Local Development Environment
+
+Day 27 Project: Avocados
+***
+Day 28: Type Hinting
+
+Day 28 Project: Web Scraping
+***
+Day 29: Decorators
+***
+Day 30: Graduation!
+
+Day 30: Project Preparation (pygame basics)
+
+Day 30 Project: Snake
+***
+***

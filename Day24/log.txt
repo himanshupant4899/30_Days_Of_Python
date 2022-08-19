@@ -1,0 +1,4 @@
+<class 'IndexError'> - arguments: ['a', 'b', 'c', 'd'], 5<class 'IndexError'> - arguments: ['a', 'b', 'c', 'd'], 9<class 'IndexError'> - arguments: ['a', 'b', 'c', 'd'], 9
+<class 'IndexError'> - arguments: ['a', 'b', 'c', 'd'], 9
+Exception: <class 'IndexError'> - arguments: ['a', 'b', 'c', 'd'], 9
+Exception: <class 'IndexError'> - collection: ['a', 'b', 'c', 'd'], identifier: 9
